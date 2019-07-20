@@ -7,7 +7,7 @@
 
 hypothesis<-function(x,y)
 {
-  if (is.data.frlame(x)&&length(unique(y))==2)
+  if (is.data.frame(x)&&length(unique(y))==2)
   {
     m=c()
     n=c()
