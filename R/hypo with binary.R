@@ -1,8 +1,9 @@
 #'Hypothesis testing
 #'
 #'Takes dataframe having binary target variable
-#'@params x= dataframe
-#'@params y= Binary target variable
+#'@param x= dataframe
+#'@param y= Binary target variable
+#'@author Tejas Vartak and Shivani Goyal
 #'@export
 
 hypothesis<-function(x,y)
