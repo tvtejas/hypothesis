@@ -6,6 +6,14 @@
 \usage{
 hypothesis(x, y)
 }
+\arguments{
+\item{x=}{dataframe}
+
+\item{y=}{Binary target variable}
+}
 \description{
 Takes dataframe having binary target variable
+}
+\author{
+Tejas Vartak and Shivani Goyal
 }
